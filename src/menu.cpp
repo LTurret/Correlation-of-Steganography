@@ -7,9 +7,9 @@
 namespace ui {
 
 void display_welcome() {
-    std::println("==================================================");
-    std::println("      圖像序列化與不可視浮水印分析系統 (C++23)     ");
-    std::println("==================================================");
+    std::println("=======================================");
+    std::println("      Correlation-of-Steganography     ");
+    std::println("=======================================");
 }
 
 void run_menu_loop() {
@@ -59,7 +59,7 @@ void run_menu_loop() {
             }
         } else if (choice == "3") {
             std::string dir, pwd;
-            std::print("輸入目標圖像資料夾路徑: ");
+            std::print("輸入目標影像資料夾路徑: ");
             std::getline(std::cin, dir);
             std::print("輸入控制密碼: ");
             std::getline(std::cin, pwd);
