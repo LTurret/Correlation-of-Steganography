@@ -2,7 +2,7 @@
 
 Linear Algebra Assignment (114-2): A Collaborative Project with Artificial Intelligence
 
-> [!CAUTION] 生成式AI注意
+> [!CAUTION]
 > 此專案**完全**由生成式 AI 接管，僅部分文本經過人工檢驗、修改。
 
 基於 C++ 實作的文字使用者介面影像隱寫與關聯性分析工具。融合了資訊隱寫術與線性代數中的對稱矩陣，靈感源自考古學家弗林德斯·皮特里（Flinders Petrie）藉由出土文物關聯性排列墓穴年代的數學模型。
